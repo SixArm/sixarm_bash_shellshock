@@ -1,2 +1,2 @@
-# SixArm.com » Bash » Shellshock security testing and patching
+# Bash » Shellshock security testing and patching
 
